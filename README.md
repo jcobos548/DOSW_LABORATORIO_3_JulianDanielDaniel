@@ -1,4 +1,11 @@
 # DOSW_LABORATORIO_3_JDD
+
+## Integrantes
+
+- Julian Giral
+- Daniel Villamizar
+- Daniel Barrera
+
 ¿Qué es un pull request en GitHub?
 
 Un Pull Request (PR) es una solicitud para integrar los cambios realizados en una rama de un repositorio con otra, normalmente hacia main. Permite revisar el código, comentar cambios, detectar errores y aprobar la integración antes de hacer el merge.
