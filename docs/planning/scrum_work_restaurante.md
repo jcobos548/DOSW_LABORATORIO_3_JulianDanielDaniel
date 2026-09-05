@@ -68,3 +68,22 @@
   * **SUB-10:** Extender el modelo de datos de `Categoría` para identificar cuáles platos pertenecen a la "Barra de Sushi".
   * **SUB-11:** Desarrollar el algoritmo de partición que agrupe los ítems de sushi en arreglos de longitud máxima de 6 antes de renderizarlos en cocina.
   * **SUB-12:** Ajustar la interfaz del tablero de cocina para reflejar visualmente las tandas fraccionadas (ej. "Tanda 1 de 2").
+
+Las cuatro historias de usuario fueron estimadas mediante Planning Poker, utilizando puntos de historia para representar su complejidad relativa.
+
+| Historia de Usuario | Puntos de Historia |
+|---|---:|
+| STORY-01: Consultar carta disponible | 3 |
+| STORY-02: Bloqueo de platos por ingredientes agotados | 5 |
+| STORY-03: Armar y modificar pedido | 5 |
+| STORY-04: Gestión de lotes de preparación en barra (Sushi) | 8 |
+
+### Planning Poker
+
+La estimación se realizó mediante votación de los integrantes del equipo. Las diferencias entre las estimaciones fueron discutidas y se llegó a un consenso para establecer los puntos finales.
+
+### Reflexión sobre la estimación
+
+- **Mayor dificultad:** La mayor dificultad fue estimar las historias que involucran varias reglas de negocio y componentes del sistema.
+- **Consenso:** El consenso se logró después de comparar las diferentes percepciones sobre la complejidad de cada historia.
+- **Resolución de diferencias:** Cuando hubo diferencias entre las votaciones, los integrantes explicaron las razones de sus estimaciones y se discutieron las tareas involucradas hasta llegar a un valor común.
